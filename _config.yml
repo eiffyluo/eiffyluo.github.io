@@ -1,2 +1,7 @@
+#Site settings
 theme: jekyll-theme-architect
-title:Eiffy Luo BLOG
+title: Eiffy Luo BLOG
+SEO title: Eiffy Luo
+email: eiffyluo@gmail.com
+description: MY BLOG
+url: "eiffyluo.github.io"
